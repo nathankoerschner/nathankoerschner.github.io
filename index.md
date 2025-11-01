@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+# I'm Nathan. Welcome to my website
+## About Me
+I’m a Data Engineer in Asheville, NC. I like working on software projects where I get to work on scaling data infrastructure. I most enjoy work for projects with business or lifestyle impact. My academic training was in Pure Mathematics where I focused on complex analysis. In the past, I’ve worked as a writer, account manager, web developer, and math tutor, among many other jobs.
 
-Maybe say a some things about yourself.
+Outside of work, I enjoy reading, e-biking, and being a part of the community at [Urban Dharma NC](https://www.udharmanc.com/).
 
-Or maybe what you plan to blog about.
+
