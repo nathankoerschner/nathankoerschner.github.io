@@ -1,6 +1,8 @@
 # About Me
 
-I’m a Software Engineer based in Asheville, NC, with a background in Pure Mathematics and a focus on building software that’s clean, reliable, and genuinely useful. I like working on projects where I can take something complex—data, systems, or processes—and make it simple and scalable.
+<img src="/assets/images/profile-photo.jpg" alt="Nathan Koerschner" style="float: right; border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-left: 20px; margin-bottom: 10px;">
+
+I'm a Software Engineer based in Asheville, NC, with a background in Pure Mathematics and a focus on building software that's clean, reliable, and genuinely useful. I like working on projects where I can take something complex—data, systems, or processes—and make it simple and scalable.
 
 I like working across the stack, building data pipelines, APIs, and the tools that make them easy to use. I enjoy seeing a project through from idea to implementation, especially when it has a real impact on how people work or understand information.
 
