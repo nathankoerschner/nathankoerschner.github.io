@@ -4,5 +4,6 @@
 - Buddhist, serving [Urban Dharma NC](https://www.udharmanc.com/)
 - Math undergrad
 - From Asheville, in Austin
-
-[X](https://x.com/koerschner) · [Instagram](https://www.instagram.com/nathankoerschner/) · [GitHub](https://github.com/nathankoerschner)
+- [Instagram](https://www.instagram.com/nathankoerschner/)
+- [GitHub](https://github.com/nathankoerschner)
+- [X](https://x.com/koerschner)
