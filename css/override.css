@@ -48,3 +48,11 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+/* Homepage: big gap under intro, compact one-line posts */
+.home > ul:first-of-type { margin-bottom: 120px; }
+.home .post-list-heading { font-size: 14px; margin-bottom: 8px; }
+.home .post-list > li { display: flex; align-items: baseline; gap: 12px; margin-bottom: 2px; font-size: 14px; }
+.home .post-list .post-meta { flex: none; width: 90px; font-size: 14px; }
+.home .post-list h3 { font-size: 14px; margin: 0; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.home .post-list .post-link { font-size: 14px; display: inline; }
